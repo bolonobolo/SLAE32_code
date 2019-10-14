@@ -1,3 +1,0 @@
-break *&code
-disable $bpnum
-
